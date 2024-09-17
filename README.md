@@ -1,12 +1,15 @@
 # Case Oper
 
-* Gravei um vídeo mostrando um pouco do código, talvez facilite um pouco a avaliação. Link para o vídeo no drive: https://drive.google.com/file/d/1XhXCtRw0hzysg6LpnAJRCly66t_v8On-/view
-* Decidi utilizar Google Colab com integração do google drive para facilitar a execução do Spark, fora do ambiente do Databricks, já que não foi específicado em qual lugar deveria ser feito, decidi ir no mais prático.
-* O notebook "first" tem as respostas para a primeira questão e possui o seguinte formato: ![image](https://github.com/andrebastosdata/case_oper/assets/173493147/a4a5dc21-9e46-41f5-ab93-76089437d52c)
-* O notebook "second" tem as respostas para a segunda questão e possui o seguinte formato: ![image](https://github.com/andrebastosdata/case_oper/assets/173493147/585e89c8-7874-44ce-a090-496f6ce7f4e6)
-* dentro da pasta "outputs" salvei alguns dataframes no formato parquet que foram utilizados para responder as questões.
-* Escolhi usar o formato parquet para reduzir requisitos de armazenamento
-* Dentro de cada notebook tem a parte "Additional code" que foram algumas avaliações extras que eu fiz que não foram solicitadas no escopo.![image](https://github.com/andrebastosdata/case_oper/assets/173493147/7b82455c-db40-43b9-9afb-c1c72469e7ec)
+* I recorded a video showcasing the code, which might make the evaluation easier. You can access the video via this link: Watch Video on Google Drive
+* To simplify execution outside of the Databricks environment, I decided to use Google Colab with Google Drive integration to run Spark, as the platform for execution wasn’t specified. I chose this option for practicality.
+* The notebook "first" contains the answers to the first question and follows this structure:
+ ![image](https://github.com/andrebastosdata/case_oper/assets/173493147/a4a5dc21-9e46-41f5-ab93-76089437d52c)
+* The notebook "second" provides the answers to the second question and has the following format:
+ ![image](https://github.com/andrebastosdata/case_oper/assets/173493147/585e89c8-7874-44ce-a090-496f6ce7f4e6)
+* Inside the "outputs" folder, I saved several dataframes in Parquet format, which were used to answer the questions. I chose this format to reduce storage requirements.
+* Each notebook also contains an "Additional code" section, where I performed some extra analyses that were not part of the original scope but could be insightful.
+* The folder structure is visualized below:
+* ![image](https://github.com/andrebastosdata/case_oper/assets/173493147/7b82455c-db40-43b9-9afb-c1c72469e7ec)
 
 
 
